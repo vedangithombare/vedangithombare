@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedangithombare
 - 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Java
 - 📫 you can reach me on <a href = "https://www.linkedin.com/in/vedangi-thombare/">LinkedIn</a>
 
 
